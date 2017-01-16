@@ -48,8 +48,6 @@ public class ContactAdapter extends RecyclerView.Adapter<ContactAdapter.ContactV
     }
 
 
-
-
     public static class ContactViewHolder extends RecyclerView.ViewHolder {
 
         protected TextView vName;
